@@ -55,3 +55,7 @@ Insights: Analyzed trends, compared regions, and highlighted key metrics.
 
 ## DashBoard
 ![Power BI Desktop 4_13_2025 10_10_34 PM](https://github.com/user-attachments/assets/c87d5a38-3b95-457a-b793-5f5a04d3ba0c)
+
+## Final Conclusion
+
+This project successfully demonstrates how Power BI can be used to transform raw COVID-19 data into meaningful insights. By visualizing confirmed cases, deaths, and recoveries across countries and states, the dashboard helps users quickly identify trends, compare regional impacts, and monitor the progression of the pandemic. The interactive features and KPIs make the data easy to explore and understand, providing valuable support for data-driven decision-making and awareness.

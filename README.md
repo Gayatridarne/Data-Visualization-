@@ -1,4 +1,4 @@
-OVID-19 Data Visualization with Power BI
+COVID-19 Data Visualization with Power BI
 This project uses Power BI to visualize and analyze global COVID-19 data from the covid_19_data.csv file. The dataset includes information about countries and their states/regions, showing the number of confirmed cases, deaths, and recoveries.
 
 Key Features:

@@ -51,4 +51,5 @@ Data Modeling: Created relationships and calculated fields using DAX.
 Visualization: Built interactive charts, maps, and KPIs to show confirmed, deaths, and recovered cases by country and state.
 
 Insights: Analyzed trends, compared regions, and highlighted key metrics.
-
+##DashBoard
+![Power BI Desktop 4_13_2025 10_10_34 PM](https://github.com/user-attachments/assets/c87d5a38-3b95-457a-b793-5f5a04d3ba0c)
